@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ByteBank",
-    "\\ByteBank\\ByteBank",
-    "\\ByteBank\\ByteBank\\Classes"
+    "\\2 - ByteBank",
+    "\\2 - ByteBank\\ByteBank"
   ],
-  "SelectedNode": "\\ByteBank\\ByteBank\\Classes\\ContaCorrente.cs",
+  "SelectedNode": "\\2 - ByteBank\\ByteBank\\obj",
   "PreviewInSolutionExplorer": false
 }
