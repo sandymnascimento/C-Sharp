@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\2 - ByteBank",
-    "\\2 - ByteBank\\ByteBank"
+    "\\2 - ByteBank\\ByteBank",
+    "\\2 - ByteBank\\ByteBank\\ByteBank.Sistema",
+    "\\3 - ByteBank",
+    "\\3 - ByteBank\\ByteBank",
+    "\\3 - ByteBank\\ByteBank\\Classes"
   ],
-  "SelectedNode": "\\2 - ByteBank\\ByteBank\\obj",
+  "SelectedNode": "\\3 - ByteBank\\ByteBank.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,16 @@
+C:\Users\sandy\source\repos\Projetos C-Sharp\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\sandy\source\repos\Projetos C-Sharp\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\sandy\source\repos\Projetos C-Sharp\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\sandy\source\repos\Projetos C-Sharp\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\sandy\source\repos\Projetos C-Sharp\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandy\source\repos\Projetos C-Sharp\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\sandy\source\repos\Projetos C-Sharp\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\sandy\source\repos\Projetos C-Sharp\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
+C:\Users\sandy\source\repos\Projetos C-Sharp\3 - ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\sandy\source\repos\Projetos C-Sharp\3 - ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\sandy\source\repos\Projetos C-Sharp\3 - ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\sandy\source\repos\Projetos C-Sharp\3 - ByteBank\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\sandy\source\repos\Projetos C-Sharp\3 - ByteBank\ByteBank\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\sandy\source\repos\Projetos C-Sharp\3 - ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\sandy\source\repos\Projetos C-Sharp\3 - ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\sandy\source\repos\Projetos C-Sharp\3 - ByteBank\ByteBank\obj\Debug\ByteBank.pdb
